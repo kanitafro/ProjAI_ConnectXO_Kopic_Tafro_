@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<DevRes>
+    <Translations>
+        <Res id="appTitle" tr="ConnectXO"/>
+
+		<Res id="chooseGame" tr="Choose the Game"/>
+		
+        <Res id="youWin" tr="You Win!"/>
+		<Res id="youLose" tr="You lose :("/>
+		<Res id="draw" tr="It's a draw!"/>
+
+		<Res id="connectFour" tr="Connect 4"/>
+		<Res id="ticTacToe" tr="Tic-Tac-Toe"/>
+
+		<Res id="winsCounterLbl" tr="Wins:"/>
+		<Res id="lossesCounterLbl" tr="Losses:"/>
+		<Res id="Hint" tr="Hint"/>
+
+		<Res id="quitBtn" tr="Quit"/>
+		<Res id="replayBtn" tr="Replay"/>a
+		
+        <Res id="settings" tr="Settings"/>
+        <Res id="settingsTT" tr="Settings (adjust language)"/>
+		<Res id="lblAIDifficulty" tr="Difficulty mode:"/>
+		<Res id="VeryEasy" tr="Very Easy"/>
+		<Res id="Easy" tr="Easy"/>
+		<Res id="Medium" tr="Medium"/>
+		<Res id="Hard" tr="Hard"/>
+		<Res id="VeryHard" tr="Very Hard"/>
+		<Res id="lblHintDisplay" tr="Display hint:"/>
+		<Res id="hintOn" tr="On"/>
+		<Res id="hintOff" tr="Off"/>
+
+		<Res id="themesList" tr="Theme:"/>
+		<Res id="themeClassic" tr="Classic"/>
+		<Res id="themeNature" tr="Nature"/>
+		<Res id="themeStrawberry" tr="Strawberry"/>
+		<Res id="themeBeachy" tr="Beachy"/>
+		<Res id="themeDark" tr="Dark"/>
+		<Res id="resetScoresLbl" tr="Reset Scores:"/>
+		<Res id="resetTTTLbl" tr="Reset Tic-Tac-Toe"/>
+		<Res id="resetC4Lbl" tr="Reset Connect 4"/>
+        <!-- Settings -->
+        <Res id="dlgSettings" tr="Settings"/>
+        <Res id="lblLang" tr="Current application language:"/>
+        <Res id="lblLang2" tr="Application language after application's restart:"/>
+        <Res id="chbTBIcsAndLbls" tr="Show labels below icons on main toolbar"/>
+		<Res id="RestartRequired" tr="Restart the application"/>
+		<Res id="RestartRequiredInfo" tr="Some of the changed settings require restarting the application to take effect"/>
+		<Res id="Restart" tr="Restart"/>
+		<Res id="DoNoRestart" tr="Don't restart"/>
+     </Translations>
+</DevRes>

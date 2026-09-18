@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<DevRes>
+	<Translations>
+		<Res id="appTitle" tr="ConnectXO"/>
+
+		<Res id="chooseGame" tr="Elige el juego"/>
+
+		<Res id="youWin" tr="¡Ganaste!"/>
+		<Res id="youLose" tr="Perdiste :("/>
+		<Res id="draw" tr="¡Es un empate!"/>
+
+		<Res id="connectFour" tr="Conecta 4"/>
+		<Res id="ticTacToe" tr="Tres en Raya"/>
+
+		<Res id="winsCounterLbl" tr="Victorias:"/>
+		<Res id="lossesCounterLbl" tr="Derrotas:"/>
+		<Res id="Hint" tr="Pista"/>
+
+		<Res id="quitBtn" tr="Salir"/>
+		<Res id="replayBtn" tr="Revancha"/>a
+
+		<Res id="settings" tr="Configuración"/>
+		<Res id="settingsTT" tr="Configuración (ajustar idioma)"/>
+		<Res id="lblAIDifficulty" tr="Modo de dificultad:"/>
+		<Res id="VeryEasy" tr="Muy Fácil"/>
+		<Res id="Easy" tr="Fácil"/>
+		<Res id="Medium" tr="Medio"/>
+		<Res id="Hard" tr="Difícil"/>
+		<Res id="VeryHard" tr="Muy Difícil"/>
+		<Res id="lblHintDisplay" tr="Mostrar pista:"/>
+		<Res id="hintOn" tr="Activado"/>
+		<Res id="hintOff" tr="Desactivado"/>
+
+		<Res id="themesList" tr="Tema:"/> 
+		<Res id="themeClassic" tr="Clásico"/> 
+		<Res id="themeNature" tr="Naturaleza"/> 
+		<Res id="themeStrawberry" tr="Fresa"/> 
+		<Res id="themeBeachy" tr="Playa"/> 
+		<Res id="themeDark" tr="Oscuro"/>
+		<Res id="resetScoresLbl" tr="Restablecer puntuaciones:"/>
+		<Res id="resetTTTLbl" tr="Restablecer Tres en Raya"/>
+		<Res id="resetC4Lbl" tr="Restablecer Conecta 4"/>
+		<!-- Configuración -->
+		<Res id="dlgSettings" tr="Configuración"/>
+		<Res id="lblLang" tr="Idioma actual de la aplicación:"/>
+		<Res id="lblLang2" tr="Idioma de la aplicación tras reiniciar:"/>
+		<Res id="chbTBIcsAndLbls" tr="Mostrar etiquetas bajo iconos en barra principal"/>
+		<Res id="RestartRequired" tr="Reiniciar la aplicación"/>
+		<Res id="RestartRequiredInfo" tr="Algunos cambios requieren reiniciar la aplicación para aplicar los cambios"/>
+		<Res id="Restart" tr="Reiniciar"/>
+		<Res id="DoNoRestart" tr="No reiniciar"/>
+	</Translations>
+</DevRes>

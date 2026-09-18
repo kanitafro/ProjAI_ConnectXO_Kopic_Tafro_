@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<DevRes>
+	<Translations>
+        <Res id="appTitle" tr="ConnectXO"/>
+
+		<Res id="chooseGame" tr="Izaberite igru"/>
+		
+		<Res id="youWin" tr="Pobjeda!"/>
+		<Res id="youLose" tr="Izgubili ste :("/>
+		<Res id="draw" tr="Neriješeno!"/>
+
+		<Res id="connectFour" tr="Spoji 4"/>
+		<Res id="ticTacToe" tr="Iks-Oks"/>
+
+		<Res id="winsCounterLbl" tr="Pobjede:"/>
+		<Res id="lossesCounterLbl" tr="Porazi:"/>
+		<Res id="Hint" tr="Savjet"/>
+
+		<Res id="quitBtn" tr="Izađi"/>
+		<Res id="replayBtn" tr="Ponovo"/>
+        
+        <Res id="settings" tr="Podešenja"/>
+        <Res id="settingsTT" tr="Podešenja (trenutno samo jezik)"/>
+		<Res id="lblAIDifficulty" tr="Nivo težine:"/>
+		<Res id="VeryEasy" tr="Vrlo Lako"/>
+		<Res id="Easy" tr="Lako"/>
+		<Res id="Medium" tr="Srednje"/>
+		<Res id="Hard" tr="Teško"/>
+		<Res id="VeryHard" tr="Vrlo Teško"/>
+		<Res id="lblHintDisplay" tr="Prikaz savjeta:"/>
+		<Res id="hintOn" tr="Ukljuceno"/>
+		<Res id="hintOff" tr="Iskljuceno"/>
+
+		<Res id="themesList" tr="Tema:"/>
+		<Res id="themeClassic" tr="Klasično"/>
+		<Res id="themeNature" tr="Priroda"/>
+		<Res id="themeStrawberry" tr="Jagoda"/>
+		<Res id="themeBeachy" tr="Plaža"/>
+		<Res id="themeDark" tr="Tamno"/>
+		<Res id="resetScoresLbl" tr="Resetuj rezultate:"/>
+		<Res id="resetTTTLbl" tr="Resetuj Iks-Oks"/>
+		<Res id="resetC4Lbl" tr="Resetuj Spoji 4"/>
+		<!-- Settings -->
+        <Res id="dlgSettings" tr="Podešenja"/>
+        <Res id="lblLang" tr="Trenutni jezik aplikacija:"/>
+        <Res id="lblLang2" tr="Jezik aplikacije nakon njenog restarta:"/>
+        <Res id="chbTBIcsAndLbls" tr="Prikaži labele ispod ikona na alatnoj traci"/>
+		<Res id="RestartRequired" tr="Restartovati aplikaciju"/>
+		<Res id="RestartRequiredInfo" tr="Neke od promijenjenih postavki zahtijevaju ponovno pokretanje aplikacije kako bi bile primijenjene"/>
+		<Res id="Restart" tr="Restartovati"/>
+		<Res id="DoNoRestart" tr="Nemoj restartovati"/>
+     </Translations>
+</DevRes>

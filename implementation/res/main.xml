@@ -1,0 +1,50 @@
+<?xml version='1.0'?>
+<Resources>
+	<Images>
+		<Res id="settings" path = "Common/Icons/SettingsBlue48.png"/>
+		<Res id="backarrow" path = ":images/back.png"/>
+
+		<Res id="redX" path = ":images/red_X.png"/>
+		<Res id="blueO" path = ":images/blue_O.png"/>
+		<Res id="redtoken" path = ":images/red_token.png"/>
+		<Res id="yellowtoken" path = ":images/yellow_token.png"/>
+		<Res id="tictactoeIcon" path=":images/tic_tac_toe.png"/>
+		<Res id="connect4Icon" path=":images/connect4.png"/>
+		
+		<Res id="woodX" path = ":images/Xwood.png"/>
+		<Res id="woodO" path = ":images/Owood.png"/>
+		<Res id="token1wood" path = ":images/tokenXwood.png"/>
+		<Res id="token2wood" path = ":images/tokenOwood.png"/>
+		<Res id="wood2" path = ":images/connect4wood2.png"/>
+		<Res id="XOwood1" path = ":images/XOgridwood.png"/>
+		<Res id="tictactoeIconWood" path=":images/tictactoe_wood.png"/>
+		<Res id="connect4IconWood" path=":images/connect4_wood.png"/>
+		
+		<Res id="strawberryX" path = ":images/Xstrawberry.png"/>
+		<Res id="strawberryO" path = ":images/Ostrawberry.png"/>
+		<Res id="token1strawberry" path = ":images/tokenXstrawberry.png"/>
+		<Res id="token2strawberry" path = ":images/tokenOstrawberry.png"/>
+		<Res id="tictactoeIconStrawberry" path=":images/tictactoe_strawberry.png"/>
+		<Res id="connect4IconStrawberry" path=":images/connect4_strawberry.png"/>
+		
+		<Res id="beachyX" path = ":images/Xbeachy.png"/>
+		<Res id="beachyO" path = ":images/Obeachy.png"/>
+		<Res id="token1beachy" path = ":images/tokenXbeachy.png"/>
+		<Res id="token2beachy" path = ":images/tokenObeachy.png"/>
+		<Res id="tictactoeIconBeachy" path=":images/tictactoe_beachy.png"/>
+		<Res id="connect4IconBeachy" path=":images/connect4_beachy.png"/>
+
+		<Res id="darkX" path = ":images/Xdark.png"/>
+		<Res id="darkO" path = ":images/Odark.png"/>
+		<Res id="token1dark" path = ":images/tokenXdark.png"/>
+		<Res id="token2dark" path = ":images/tokenOdark.png"/>
+		<Res id="tictactoeIconDark" path=":images/tictactoe_dark.png"/>
+		<Res id="connect4IconDark" path=":images/connect4_dark.png"/>
+		
+	</Images>
+	<Sounds>
+		<Res id="falling" path=":sounds/falling.wav"/>
+		<Res id="click" path=":sounds/click.wav"/>
+	</Sounds>
+</Resources>
+
