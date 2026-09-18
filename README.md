@@ -1,6 +1,4 @@
-# Connect 4 and Tic-Tac-Toe (C++ Application)
-
-## **Original repository can be found [HERE](https://github.com/kanitafro/ConnectXO-app)**
+# Connect 4 and Tic-Tac-Toe (C++ Application) ([ORIGINAL REPO](https://github.com/kanitafro/ConnectXO-app))
 
 NOTE: This app uses ***NatID*** GUI. In order to run it through CMake, follow download instructions from [here](https://github.com/idzafic/natID).
 
