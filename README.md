@@ -14,6 +14,13 @@ NOTE: This app uses ***NatID*** GUI. In order to run it through CMake, follow do
 <img width="250" height="196" alt="Image" src="https://github.com/user-attachments/assets/5c11e4b8-4352-4091-84c1-526dabfec036" />
 <img width="250" height="196" alt="Image" src="https://github.com/user-attachments/assets/e6d3f630-7c5c-4bf3-a793-c27c92f8cd90" />
 
+## First Glance at the UI
+
+<img width="250" height="196" alt="Image" src="https://github.com/user-attachments/assets/71906797-4823-446c-86cd-41a0ecab8277" />
+<img width="250" height="196" alt="Image" src="https://github.com/user-attachments/assets/e07c5bec-223b-4429-bb45-0d59f9892f59" />
+<img width="250" height="196" alt="Image" src="https://github.com/user-attachments/assets/5a5c5460-b798-41fc-9295-0cff2615fb40" />
+
+
 ## Algorithm & AI Architecture
 ### **The AI Engine**
 
